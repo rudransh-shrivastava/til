@@ -8,12 +8,15 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
 
 ## Categories
 * [Bash Script](#bash-script)
+* [Linux](#linux)
 * [Vim](#vim)
 
 ---
 
 ### Bash Script
   * [User Input](Bash%20Script/User%20Input.md)
+### Linux
+  * [Renaming files using the terminal](Linux/Renaming%20files%20using%20the%20terminal.md)
 ### Vim
   * [How to exit Vim](Vim/How%20to%20exit%20Vim.md)
 
