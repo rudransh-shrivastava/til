@@ -9,7 +9,7 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
 
 ---
 
-### Categories
+## Categories
 
  
 
