@@ -6,8 +6,17 @@ TILs are short Markdown notes that contain a few sentences + example code, they'
 
 I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stole that idea from [jbranchaud/til](https://github.com/jbranchaud/til/), who shamelessly stole that idea from [thoughtbot/til](https://github.com/thoughtbot/til).
 
+
+---
+
+### Categories
+
+ 
+
+---
+
 ### License
 
-This repository is under the [MIT
+This repository is licensed under the [MIT
 License](http://www.opensource.org/licenses/MIT).
 
