@@ -2,7 +2,7 @@ import os
 
 # List of directory names.
 # Why? because otherwise python includes hidden directories.
-whitelisted_dir = ["Linux", "Vim", "Python", "JavaScript", "HTML", "CSS", "NodeJs", "Java", "Github Actions"]
+whitelisted_dir = ["Vim"]
 whitelisted_dir.sort()
 
 # Initialize the README content and add some info.
