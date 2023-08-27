@@ -7,10 +7,13 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
 ---
 
 ## Categories
+* [Bash Script](#bash-script)
 * [Vim](#vim)
 
 ---
 
+### Bash Script
+  * [User Input](Bash%20Script/User%20Input.md)
 ### Vim
   * [How to exit Vim](Vim/How%20to%20exit%20Vim.md)
 
