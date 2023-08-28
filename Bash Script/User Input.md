@@ -1,4 +1,4 @@
-To take user input in a bash script, we can use the following syntax
+To take user input in a bash script, we can use the following syntax :
 
 ```bash
 echo Enter something:
