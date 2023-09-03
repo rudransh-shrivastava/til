@@ -20,6 +20,7 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
   * [Num Lock... Why does it exist](Keyboard/Num%20Lock...%20Why%20does%20it%20exist.md)
 ### Linux
   * [Clearing the screen](Linux/Clearing%20the%20screen.md)
+  * [Closing Terminal](Linux/Closing%20Terminal.md)
   * [Renaming files using the terminal](Linux/Renaming%20files%20using%20the%20terminal.md)
 ### Vim
   * [How to exit Vim](Vim/How%20to%20exit%20Vim.md)

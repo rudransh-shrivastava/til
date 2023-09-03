@@ -1,3 +1,0 @@
-A simple shortcut to close the terminal is `Ctrl + d` or `^d`.
-
-If you're on zsh/ohmyzsh and you type an incomplete command, hitting `Ctrl + d` will show you command completion suggestions!
