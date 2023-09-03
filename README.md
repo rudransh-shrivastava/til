@@ -11,6 +11,7 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
 * [Keyboard](#keyboard)
 * [Linux](#linux)
 * [Vim](#vim)
+* [Vs Code](#vs-code)
 
 ---
 
@@ -24,6 +25,8 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
   * [Renaming files using the terminal](Linux/Renaming%20files%20using%20the%20terminal.md)
 ### Vim
   * [How to exit Vim](Vim/How%20to%20exit%20Vim.md)
+### Vs Code
+  * [Moving Lines](Vs%20Code/Moving%20Lines.md)
 
 ---
 
