@@ -26,6 +26,7 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
 ### Vim
   * [How to exit Vim](Vim/How%20to%20exit%20Vim.md)
 ### Vs Code
+  * [Creating Files Inside Folders](Vs%20Code/Creating%20Files%20Inside%20Folders.md)
   * [Moving Lines](Vs%20Code/Moving%20Lines.md)
 
 ---
