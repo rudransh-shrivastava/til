@@ -20,6 +20,7 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
   * [User Input](Bash%20Script/User%20Input.md)
 ### JavaScript
   * [Arrow Functions](JavaScript/Arrow%20Functions.md)
+  * [Object Destructuring](JavaScript/Object%20Destructuring.md)
 ### Keyboard
   * [Num Lock... Why does it exist](Keyboard/Num%20Lock...%20Why%20does%20it%20exist.md)
 ### Linux
