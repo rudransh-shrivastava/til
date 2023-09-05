@@ -8,6 +8,7 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
 
 ## Categories
 * [Bash Script](#bash-script)
+* [JavaScript](#javascript)
 * [Keyboard](#keyboard)
 * [Linux](#linux)
 * [Vim](#vim)
@@ -17,6 +18,8 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
 
 ### Bash Script
   * [User Input](Bash%20Script/User%20Input.md)
+### JavaScript
+  * [Arrow Functions](JavaScript/Arrow%20Functions.md)
 ### Keyboard
   * [Num Lock... Why does it exist](Keyboard/Num%20Lock...%20Why%20does%20it%20exist.md)
 ### Linux
