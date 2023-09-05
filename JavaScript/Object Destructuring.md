@@ -1,6 +1,5 @@
 We sometimes need to create variables for the properties of an object
-So instead of doing this
-
+This is the normal way of doing it.
 ```js
 const operatingSystems {
     windows: 'bloatware',
