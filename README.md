@@ -27,6 +27,7 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
   * [Clearing the screen](Linux/Clearing%20the%20screen.md)
   * [Closing Terminal](Linux/Closing%20Terminal.md)
   * [Renaming files using the terminal](Linux/Renaming%20files%20using%20the%20terminal.md)
+  * [Systemd Service Syntax](Linux/Systemd%20Service%20Syntax.md)
 ### Vim
   * [How to exit Vim](Vim/How%20to%20exit%20Vim.md)
 ### Vs Code
