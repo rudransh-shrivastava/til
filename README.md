@@ -20,6 +20,7 @@ I stole this idea from [jwworth/til/](https://github.com/jwworth/til/), who stol
   * [User Input](Bash%20Script/User%20Input.md)
 ### JavaScript
   * [Arrow Functions](JavaScript/Arrow%20Functions.md)
+  * [Bind in JavaScript](JavaScript/Bind%20in%20JavaScript.md)
   * [Combining Two Arrays](JavaScript/Combining%20Two%20Arrays.md)
   * [Object Destructuring](JavaScript/Object%20Destructuring.md)
 ### Keyboard
